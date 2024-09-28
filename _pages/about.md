@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="text-align: center;">
-        <p>Taken at Seattle (Washington, USA)</p>
+        <p>Taken at Seattle (Washington)</p>
     </div>
 
 news: true # includes a list of news items
