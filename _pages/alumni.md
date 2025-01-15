@@ -159,7 +159,7 @@ nav_order: 2
     (co-supervised with MSc. Vo Thanh Phat) <br>
     Thesis &nbsp; Slide</li>
 <li> Ho Thi Thu: <b> Variational convergence theory for approximation in optimization (in Vietnamese) </b> <br>
-    (co-supervised with MSc. Vo Thanh Phat) <br>
+    (co-supervised with Dr. Huynh Thi Hong Diem) <br>
     Thesis &nbsp; Slide</li>
 </ol>
 
