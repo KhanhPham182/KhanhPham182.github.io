@@ -15,7 +15,7 @@ nav_order: 3
 </body>
 
 <span style="color: blue;">Doctor of Philosophy in Applied Mathematics</span><br>
-<span style="color: black;">Institute of Mathematics, Vietnam Academy of Science and Technology</span><br>
+Institute of Mathematics, Vietnam Academy of Science and Technology<br>
 <b>Dissertation:</b> <span style="color: blue;">Solution Methods for Pseudomonotone Variational Inequalities</span><br>
 <b>Supervisors:</b> <span style="color: red;">Prof. Nguyen Dong Yen, Dr. Trinh Cong Dieu</span><br>
 
@@ -27,7 +27,7 @@ nav_order: 3
 </body>
 
 <span style="color: blue;">Master of Science in Mathematical Analysis</span><br>
-<span style="color: black;">Ho Chi Minh City University of Education </span><br>
+Ho Chi Minh City University of Education<br>
 <b>Thesis:</b> <span style="color: blue;">Nash Equilibrium Problems in Ordered Topological Spaces</span><br>
 <b>Supervisor:</b> <span style="color: red;">Prof. Nguyen Bich Huy</span><br>
 
@@ -39,7 +39,7 @@ nav_order: 3
 </body>
 
 <span style="color: blue;">Bachelor of Science in Mathematics</span><br>
-<span style="color: black;">Ho Chi Minh City University of Education </span><br>
+Ho Chi Minh City University of Education <br>
 <b>Thesis:</b> <span style="color: blue;">Parametric Programming Problems</span><br>
 <b>Supervisor:</b> <span style="color: red;">Dr. Trinh Cong Dieu</span><br>
 
