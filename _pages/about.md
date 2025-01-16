@@ -31,7 +31,7 @@ Presently, I hold the position of Associate Professor at [Ho Chi Minh City Unive
 
 My contact information can be found at the end of this page.
 
-<div style="position: fixed; bottom: 0; width: 100%; text-align: center; z-index: 1000;">
+<div style="position: fixed; bottom: 0; width: 100%; text-align: center; z-index: -1;">
   <div style="width: 150px; height: 250px; margin: 0 auto; overflow: hidden;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gXWScn06MpsD8n__Xmp9xaGhAeG9iLxVTnEjNhCjAmM"></script>
   </div>
